@@ -1,0 +1,1 @@
+Configure your loadcell first or your forces won't be correct.
